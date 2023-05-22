@@ -1,3 +1,5 @@
+import React from 'react';
+
 const serviceData = [
     {
         h1:'Best Prices & Offers',

@@ -1,4 +1,5 @@
 import { IoIosPaperPlane } from "react-icons/io";
+import React from 'react';
 
 
 const Needs = () => {
@@ -10,7 +11,7 @@ const Needs = () => {
                   <img className="absolute w-[42%] top-[5%] right-[3%]" src="images/banner-9.png" alt="" />
 
 
-                  <h1 className='absolute top-10 text-[40px] font-bold pl-[5%] text-[#253D4E] max-lg:text-[27px] max-lg:top-[12%] max-md:text-[19px]'>
+                  <h1 className='absolute lg:top-10 text-[40px] font-bold pl-[5%] text-[#253D4E] max-lg:text-[27px] top-[12%] max-md:text-[19px]'>
                   Stay home & get your daily
         </h1>
         <h1 className='absolute top-[23%] text-[40px] font-bold pl-[5%] text-[#253D4E] max-lg:text-[27px] max-lg:top-[28%] max-md:text-[19px]'>

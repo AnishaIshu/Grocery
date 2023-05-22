@@ -1,3 +1,4 @@
+
 import { TiArrowRight } from "react-icons/ti";
 import { MdOutlineShoppingCart } from "react-icons/md";
 // import Slider from "react-slick";

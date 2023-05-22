@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 const trandingDataOne = [
   {
     img: "images/Tranding/tranding-1.jpg",

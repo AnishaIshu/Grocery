@@ -2,7 +2,7 @@ import { IoIosPaperPlane } from "react-icons/io";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { useEffect } from "react";
+import React from 'react';
 
 const Hero = () => {
 

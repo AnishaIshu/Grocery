@@ -1,3 +1,4 @@
+import React from 'react';
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import { FiHeadphones } from "react-icons/fi";
 import { BiPaperPlane } from "react-icons/bi";

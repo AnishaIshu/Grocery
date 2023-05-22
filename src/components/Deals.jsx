@@ -1,4 +1,5 @@
 import { IoIosArrowForward } from "react-icons/io";
+import React from 'react';
 
 const dealsData = [
   {

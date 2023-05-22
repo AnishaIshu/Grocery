@@ -1,7 +1,6 @@
 import Header from "../Header"
 import Navbar from "../Navbar"
-import NavTxt from "../NavTxt"
-import Footer from "../Footer"
+import Footer from   '../Footer'
 
 
 const Layout = () => {
@@ -9,8 +8,10 @@ const Layout = () => {
          <div>
              <Header/>
              <Navbar />
-             <NavTxt/>
-             <Footer />
+             <Footer />  
+             
          </div>
     )
 }
+
+export default Layout
